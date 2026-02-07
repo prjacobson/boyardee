@@ -40,3 +40,4 @@ PCB is a simple 12u alpha stagger board. See layout options below:
 ## Acknowledgements
 * Much appreciation to Dash (DashDashUnderscoreDash (--_-)) for designing the PCB! Again, go check him out and support him: [github](https://github.com/DashDashUnderscoreDash/) or [store](https://www.dashkeebs.com/)
 * As mentioned, the case design is heavily inspired by the [bully](https://github.com/zhol0777/bully-files) by Zhol
+* Many thanks to Calumwri and Swear_wolf for suggestions on the engraving design!
