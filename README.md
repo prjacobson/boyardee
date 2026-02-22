@@ -3,11 +3,11 @@ Case for the [Alphable PCB](https://github.com/DashDashUnderscoreDash/Alphable-P
 (Also see his [github](https://github.com/DashDashUnderscoreDash/) or [store](https://www.dashkeebs.com/)))
 
 <p align="center">
-  <img src="Images/render_perspective.png" Width="800", alt="Perspective render of case"/>
-  <img src="Images/render_bottom.png" Width="800", alt="Render of bottom of case"/>
+  <img src="Images/boyardee_top.jpg" Width="800", alt="Pic of top of case"/>
+  <img src="Images/boyardee_bottom.jpg" Width="800", alt="Pic of bottom of case"/>
 </p>
 <p style="align: center;">
-  <i>"Render" of the case, pics once it's tested</i>
+  <i>Case printed in pink by Dash (thanks!) with DCS Sommelier</i>
 </p>
 
 Case design heavily inspired by the [bully](https://github.com/zhol0777/bully-files) by Zhol, one of my favorite cases
@@ -24,7 +24,7 @@ PCB is a simple 12u alpha stagger board. See layout options below:
 </p>
 
 ## Build notes
-**THIS CASE IS UNTESTED!** It hopefully works, but proceed at your own risk.
+This case has been tested and seems to work a-okay, but proceed at your own risk!
 
 ## Required hardware
 * M2×4mm (or 5mm) screws *(12×)*
@@ -38,6 +38,6 @@ PCB is a simple 12u alpha stagger board. See layout options below:
 * *Optional: 8× wheel weights*
 
 ## Acknowledgements
-* Much appreciation to Dash (DashDashUnderscoreDash (--_-)) for designing the PCB! Again, go check him out and support him: [github](https://github.com/DashDashUnderscoreDash/) or [store](https://www.dashkeebs.com/)
+* Much appreciation to Dash (DashDashUnderscoreDash (--_-)) for designing the PCB and helping with testing! Again, go check him out and support him: [github](https://github.com/DashDashUnderscoreDash/) or [store](https://www.dashkeebs.com/)
 * As mentioned, the case design is heavily inspired by the [bully](https://github.com/zhol0777/bully-files) by Zhol
 * Many thanks to Calumwri and Swear_wolf for suggestions on the engraving design!
