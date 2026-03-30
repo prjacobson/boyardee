@@ -1,6 +1,8 @@
 # Boyardee
 Case for the [Alphable PCB](https://github.com/DashDashUnderscoreDash/Alphable-PCB) by DashKeebs 
-(Also see his [github](https://github.com/DashDashUnderscoreDash/) or [store](https://www.dashkeebs.com/)))
+(Also see his [github](https://github.com/DashDashUnderscoreDash/) or [store](https://www.dashkeebs.com/))
+
+*Depending on when you're reading this, alphable kits may be available at [DashKeebs](https://www.dashkeebs.com/product/alphable)!*
 
 <p align="center">
   <img src="Images/boyardee_top.jpg" Width="800", alt="Pic of top of case"/>
