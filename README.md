@@ -28,6 +28,8 @@ PCB is a simple 12u alpha stagger board. See layout options below:
 ## Build notes
 This case has been tested and seems to work a-okay, but proceed at your own risk!
 
+*For those with multicolor printers, there is a `Boyardee_Bottom_Flush` file which has the "engraving" flush with the bottom. This makes for a cleaner print if you want to print the bottom design in a seperate color*
+
 ## Required hardware
 * M2×4mm (or 5mm) screws *(12×)*
 * M2×3mm heatset inserts *(12×)*
